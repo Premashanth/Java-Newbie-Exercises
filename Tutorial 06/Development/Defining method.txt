@@ -1,0 +1,8 @@
+Defining method
+
+a.public static double temperature (double cel)
+b.public static void printMessage (String message)
+c.public static void printMessage (String message, int times)
+d.public static double convertCurrency (double amout, double converstionRate)
+e.public static boolean even (int no)
+f.public static int timeMin (int startTime, int endTime) 

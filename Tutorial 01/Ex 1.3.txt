@@ -1,0 +1,10 @@
+public class Poem{
+	public static void main(String[]a){
+		System.out.println(“Stop! Don’t swat the fly”);
+	  	System.out.println(“Who wrings his hands,”);
+		System.out.println(“Who wrings his feet.”);
+		System.out.println(“ ”);
+		System.out.println(“  Kobayashi Issa(1763-1827)”);
+	}
+}
+	     
